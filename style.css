@@ -1,0 +1,21 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+
+header{
+height:250px;
+width:100%;
+background-image: url(Images/Header.png);
+background-repeat: no-repeat;
+background-size: cover;
+}
+.hulf-width{
+    width:40%;
+    float:left;
+}
+nav>ul>li{
+    display: inline;
+
+}
